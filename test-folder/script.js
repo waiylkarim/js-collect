@@ -1,5 +1,8 @@
-import collect from "../collect.js"
+// import collect from "../collect.js"
 
-const obj = {id: 3, name: 'Noama'}
+import Collect from '../collect.js'
 
-console.log(collect.pluck(obj, 'name'))
+const c = new Collect({id: 3, name: 'Noama'})
+
+
+console.log(c.pluck('name').all())
