@@ -1,0 +1,20 @@
+{
+  "name": "jscollect",
+  "version": "0.0.1",
+  "description": "A JavaScript library for your Arrays and Objects",
+  "main": "collect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waiylkarim/js-collect.git"
+  },
+  "type": "module",
+  "author": "Waiyl Karim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waiylkarim/js-collect/issues"
+  },
+  "homepage": "https://github.com/waiylkarim/js-collect#readme"
+}
